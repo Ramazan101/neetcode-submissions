@@ -3,3 +3,4 @@
 - [x] Practiced NeetCode problems on 2026-09-03
 - [x] Practiced NeetCode problems on 2026-09-04
 - [x] Practiced NeetCode problems on 2026-09-05
+- [x] Practiced NeetCode problems on 2026-09-06
