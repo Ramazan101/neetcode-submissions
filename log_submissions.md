@@ -5,3 +5,4 @@
 - [x] Practiced NeetCode problems on 2026-09-05
 - [x] Practiced NeetCode problems on 2026-09-06
 - [x] Practiced NeetCode problems on 2026-09-07
+- [x] Practiced NeetCode problems on 2026-09-08
