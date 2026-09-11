@@ -8,3 +8,4 @@
 - [x] Practiced NeetCode problems on 2026-09-08
 - [x] Practiced NeetCode problems on 2026-09-09
 - [x] Practiced NeetCode problems on 2026-09-10
+- [x] Practiced NeetCode problems on 2026-09-11
