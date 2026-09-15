@@ -12,3 +12,4 @@
 - [x] Practiced NeetCode problems on 2026-09-12
 - [x] Practiced NeetCode problems on 2026-09-13
 - [x] Practiced NeetCode problems on 2026-09-14
+- [x] Practiced NeetCode problems on 2026-09-15
