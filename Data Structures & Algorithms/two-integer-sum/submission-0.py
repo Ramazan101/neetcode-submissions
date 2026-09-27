@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # dickt для того чтобы хранить ключ и занчение вычетаемых чисел
+        # dict для того чтобы хранить ключ и занчение вычетаемых чисел
         seen = {}
         # проходим по данныи с пмщ loop for и даем им ключ-значение
         for idx, num in enumerate(nums):
