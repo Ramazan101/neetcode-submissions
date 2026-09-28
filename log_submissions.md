@@ -24,3 +24,4 @@
 - [x] Practiced NeetCode problems on 2026-09-24
 - [x] Practiced NeetCode problems on 2026-09-25
 - [x] Practiced NeetCode problems on 2026-09-26
+- [x] Practiced NeetCode problems on 2026-09-28
