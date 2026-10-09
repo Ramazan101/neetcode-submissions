@@ -80,21 +80,21 @@ print(sort_employees([
 
 
 
-# sort_employees = [
-#     {"name": "Bek", "salary": 500},
-#     {"name": "Aida", "salary": 700},
-#     {"name": "Azat", "salary": 500},
-# ]
-#
-# dicts = {}
-#
-# for dictt in sort_employees:
-#     for key, value in dictt.items():
-#         dicts[key, value] = value, key
-#
-# sorted_s = sorted(dicts)
-#
-# print(dicts)
-# print(sorted_s)
-#
-# print(dir(dicts))
+sort_employees = [
+    {"name": "Bek", "salary": 500},
+    {"name": "Aida", "salary": 700},
+    {"name": "Azat", "salary": 500},
+]
+
+dicts = {}
+
+for dictt in sort_employees:
+    for key, value in dictt.items():
+        dicts[key, value] = value, key
+
+sorted_s = sorted(dicts)
+
+print(dicts)
+print(sorted_s)
+
+print(dir(dicts))
